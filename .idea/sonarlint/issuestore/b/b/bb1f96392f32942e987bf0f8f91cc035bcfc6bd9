@@ -1,0 +1,32 @@
+
+h
+java:S1104
+"MMake i a static final constant or non-public and provide accessors if needed.(—ºğøÿÿÿÿ
+b
+java:S1104"MMake j a static final constant or non-public and provide accessors if needed.(áe
+U
+java:S1118":Add a private constructor to hide the implicit public one.(İ©Üğùÿÿÿÿ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(˜ÏãÄûÿÿÿÿ
+3
+java:S2119"Save and re-use this "Random".(¼İÅf
+F
+java:S1172E"+Remove this unused method parameter "grid".(Ä¬®óÿÿÿÿÿ
+?
+java:S1197q"*Move the array designators [] to the type.(’Ó£S
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(×•œ²
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(‹¶óïùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å‡ëÇøÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+P
+java:S1854•":Remove this useless assignment to local variable "random".(¼İÅf
+4
+java:S2119•"Save and re-use this "Random".(¼İÅf
+A
+java:S1481•"+Remove this unused "random" local variable.(¼İÅf
+4
+java:S2119¢"Save and re-use this "Random".(¼İÅf
+i
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ùî™ò
